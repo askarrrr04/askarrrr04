@@ -1,4 +1,4 @@
-<h1 align="center">Salamaleikum, I'm Askar</h1>
+<h1 align="center">Salem, I'm Askar</h1>
 <h3 align="center">DevOps en. from Kazakhstan</h3>
 
 -  I’m currently working in **iBatyr**
