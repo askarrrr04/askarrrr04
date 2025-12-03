@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Askar</h1>
+<h1 align="center">Salamaleikum, I'm Askar</h1>
 <h3 align="center">DevOps en. from Kazakhstan</h3>
 
-- 🔭 I’m currently working in **iBatyr**
+-  I’m currently working in **iBatyr**
 
-- 🌱 I’m currently learning **ML**
+-  I’m currently learning **ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/askarrrr04](https://github.com/askarrrr04)
+-  All of my projects are available at [https://github.com/askarrrr04](https://github.com/askarrrr04)
 
-- 📫 How to reach me **askarbakeev71@gmail.com**
+-  How to reach me **askarbakeev71@gmail.com**
 
-- 📄 Know about my experiences [https://1-bf7c4a.gitlab.io/](https://1-bf7c4a.gitlab.io/)
+-  Know about my experiences [https://askarbakeyev-248376.gitlab.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
